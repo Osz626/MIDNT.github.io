@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+h1 {font-family: Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;color:#640A0B; margin-left: 850px}
+a{
+  border-radius: 5px;
+  padding: 10px 7px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+  margin: 5px;
+}
+.menu
+
+
+.subtitulo {font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;}
+
+.nm1 {font-family: Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;margin-top: 40px; margin-left: 50px; margin-bottom: 50px; margin-right: 900px }
+
+.sub1 {font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;}
+
+.sub1 {font-family: Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana, sans-serif;}
+
+.sub1 {font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial, sans-serif;}
+
+.sub1 {font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;}
+
+.sub1{ color: #3E0C3C     ; font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;border:#9E5355 3px dotted }
+
+.txt1 {font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial, sans-serif;  }
+
+.nm2 {font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif; margin: 20px; }
+
+.nm2 {font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;}
+
+p.borde-1{border: orange 4px solid; font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial, sans-serif;}
+.nv {
+    font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace; border: #9678E2 9px dotted
+}
+
+div {
+display: flex;
+justify-content: center;
+}
